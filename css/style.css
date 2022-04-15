@@ -1,0 +1,9 @@
+p {
+    margin-top: 70px;
+    margin-left: 50px;
+}
+
+#imagem {
+    position:absolute; left: 150px;
+    top:100px;
+}
